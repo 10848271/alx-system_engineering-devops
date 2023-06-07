@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -faln . .. /boot
+ls -aln . .. /boot
